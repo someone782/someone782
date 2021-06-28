@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, my name is Someone!
 
-<!--
-**someone782/someone782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 I'm currently working on:
+-🤖[**Kyro Discord Bot!**](https://https://discord.com/oauth2/authorize?client_id=844154929815748649&scope=bot&permissions=271887566) (Closed source)
 
-Here are some ideas to get you started:
+-🐍 **Snake DPY** - A simple snake game in discord.py (Will be made open source soon..)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ I'm currently learning:
+-**php**
+
+-**nodeJS**
+
+-**c#**
+
+-**Developing games using unity**
+
+### 📫 Where to contact me:
+-Discord: [You can join my server](https://discord.gg/GKqcBxBQ)
+
+### Languages i'm using:
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone782&layout=compact&show_icons=true&theme=radical"/>
+
+
