@@ -17,7 +17,7 @@
 ### 📫 Where to contact me:
 -Discord: [You can join my server](https://discord.gg/GKqcBxBQ)
 
-### Languages i'm using:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone782&layout=compact&show_icons=true&theme=radical"/>
+<!-- ### Languages i'm using:
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone782&layout=compact&show_icons=true&theme=radical"/> -->
 
 
